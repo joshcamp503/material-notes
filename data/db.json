@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Mario's Dessert",
+      "details": "Princess Peach",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Clean the gutters",
+      "details": "Remove leaves and debris from gutters",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "Wash the dishes",
+      "details": "Use soap and water to scrub all the plates, bowls, silverware, pots, and pans.",
+      "category": "work",
+      "id": 6
+    }
+  ]
+}
